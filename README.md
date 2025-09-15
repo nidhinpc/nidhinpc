@@ -32,7 +32,7 @@ I am an ambitious **Flutter Developer** passionate about building **user-friendl
 
 ## 💼 Work Experience  
 
-### 🚀 **Flutter Developer Intern** | *Rootments Enterprises LLP* (Dec 2024 - Present)  
+### 🚀 **Flutter Developer Intern** | *Rootments Enterprises LLP* (Dec 2024 - Apr 2025)  
 - Building an innovative mobile app that redefines **wedding culture** through sustainable rental solutions.  
 - Collaborating with cross-functional teams to design and develop **scalable** features.  
 - Writing clean, optimized code with iterative **testing and debugging**.  
