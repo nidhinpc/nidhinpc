@@ -1,79 +1,56 @@
-👋 Hi, I'm Nidhin PC
-
+👋 Hi there, I'm Nidhin PC!
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Enthusiast;Building+Scalable+Apps" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nidhinpc&label=Profile%20views&color=0e75b6&style=flat" /> <img src="https://img.shields.io/github/followers/nidhinpc?label=Followers&style=social" /> </p>
 🚀 Flutter Developer | Mobile App Engineer | Scalable App Specialist
 
-Flutter Developer with 1+ year of experience building production-ready, high-performance mobile applications. I specialize in clean architecture, state management, API integrations, and real-time systems, with hands-on experience in deploying apps to the Google Play Store.
+💡 Flutter Developer with 1+ year of experience building production-ready, high-performance mobile applications.
+⚡ Specialized in Clean Architecture, State Management, API Integrations & Real-time Systems
+📱 Published apps on Google Play Store
 
 👨‍💻 About Me
-💼 Currently working as Junior Flutter Developer @ Corevant Platforms Pvt. Ltd.
-🔭 Previously worked at Rootments Enterprises LLP
-📱 Built & published live apps on Google Play
-⚙️ Focused on scalable architecture & performance optimization
-🌍 Open to opportunities in India & UAE (Dubai)
+🔭 Junior Flutter Developer @ Corevant Platforms Pvt. Ltd.
+💼 Ex-Intern @ Rootments Enterprises LLP
+📱 Built & deployed live production apps
+🌱 Exploring scalable system design & advanced Flutter
+🌍 Open to India & UAE (Dubai) opportunities
+🌐 Connect With Me
+<p align="center"> <a href="mailto:nidhinpc66666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/nidhinpc316"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/nidhinpc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://nidhinpc.github.io/Portfolio-Website-main"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a> </p>
 🛠️ Tech Stack
 💻 Languages & Frameworks
-Flutter, Dart, Android, iOS
+<p> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> </p>
 ⚙️ Architecture & State Management
-Clean Architecture, MVC
-GetX, Provider, Riverpod
+<p> <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Provider-00C853?style=for-the-badge"/> <img src="https://img.shields.io/badge/Riverpod-00BFA5?style=for-the-badge"/> </p>
 🔗 Backend & APIs
-REST APIs, Firestore
-Swagger, Postman
+<p> <img src="https://img.shields.io/badge/REST_API-FF5733?style=for-the-badge"/> <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge"/> </p>
 🔌 Integrations
-Firebase, OneSignal (Push Notifications)
-Google Maps, Branch.io
-Payment Gateways (PhonePe)
-🚀 Deployment & Tools
-Google Play Console, App Store Connect
-Git, GitHub
-Android Studio, VS Code
-Cursor AI
-💼 Professional Experience
-🚀 Junior Flutter Developer
-
-Corevant Platforms Pvt. Ltd. | Aug 2025 – Mar 2026
-
-Developed & published Vitara Gold (Gold SIP Investment App)
-Implemented secure API integrations with encryption/decryption
-Integrated AI features, socket communication, and real-time updates
-Added OneSignal notifications & PhonePe payment gateway
-Managed development → UAT → production lifecycle
-Ensured 100% Play Store approval rate
-📱 Flutter Developer Intern
-
-Rootments Enterprises LLP | Dec 2024 – Apr 2025
-
-Built & published Rootments Learn App
-Developed wedding rental management system
-Implemented inventory & booking modules
-Added tag-based search for availability tracking
-Collaborated with UI/UX team for better usability
+<p> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/badge/OneSignal-EF233C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/> <img src="https://img.shields.io/badge/Branch.io-00C2FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge"/> </p>
+💼 Work Experience
+🚀 Junior Flutter Developer | Corevant Platforms Pvt. Ltd.
+📱 Built & published Vitara Gold (Gold SIP App)
+🔐 Secure API integration with encryption
+⚡ Real-time systems using sockets
+💳 Payment integration (PhonePe)
+🚀 100% Play Store approval
+📱 Flutter Developer Intern | Rootments Enterprises LLP
+📱 Published Rootments Learn App
+👗 Built wedding rental system
+🔍 Implemented smart search system
+🎨 Improved UI/UX performance
 🔥 Featured Project
 📌 Service Booking Application
 
-A role-based service platform with Admin, User, and Worker dashboards
+✔ Role-based system (Admin / User / Worker)
+✔ Firebase Authentication & Firestore
+✔ Cloudinary media management
+✔ Clean architecture
 
-🔐 Firebase Authentication & Firestore
-☁️ Cloudinary for scalable media storage
-⚙️ Fully structured and modular architecture
-📊 Key Highlights
-✅ Published multiple apps on Google Play Store
-✅ Experience with real-time systems & socket communication
-✅ Strong in clean code & scalable architecture
-✅ Hands-on with secure payment integrations
-📫 Connect With Me
-📧 nidhinpc66666@gmail.com
-🔗 https://linkedin.com/in/nidhinpc316
-💻 https://github.com/nidhinpc
-🌐 Portfolio: https://nidhinpc.github.io/Portfolio-Website-main
-⚡ Additional Info
-🌐 Languages: English, Malayalam
-✈️ Open to relocation
-💡 Passionate about building real-world scalable mobile apps
----
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nidhinpc&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinpc&theme=tokyonight" /> </p>
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nidhinpc&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
+⚡ Fun Fact
 
-💡 **Let's build something amazing together!** 🚀  
+💡 I love building real-world scalable apps and exploring the latest tech trends 🚀
 
----
 
-Let me know if you'd like any modifications! 🚀
+
+💡 Let’s build something impactful together! 🚀
