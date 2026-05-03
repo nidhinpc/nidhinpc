@@ -1,77 +1,75 @@
-# Hi there, I'm Nidhin PC! 👋  
+👋 Hi, I'm Nidhin PC
 
-🚀 **Flutter Developer | Mobile App Enthusiast | UI/UX Designer**  
+🚀 Flutter Developer | Mobile App Engineer | Scalable App Specialist
 
-I am an ambitious **Flutter Developer** passionate about building **user-friendly, scalable, and high-performance mobile applications**. I specialize in **Dart, API integrations, UI/UX design**, and **database management**. Currently, I am honing my skills and working on exciting Flutter projects to redefine mobile experiences.  
+Flutter Developer with 1+ year of experience building production-ready, high-performance mobile applications. I specialize in clean architecture, state management, API integrations, and real-time systems, with hands-on experience in deploying apps to the Google Play Store.
 
----
+👨‍💻 About Me
+💼 Currently working as Junior Flutter Developer @ Corevant Platforms Pvt. Ltd.
+🔭 Previously worked at Rootments Enterprises LLP
+📱 Built & published live apps on Google Play
+⚙️ Focused on scalable architecture & performance optimization
+🌍 Open to opportunities in India & UAE (Dubai)
+🛠️ Tech Stack
+💻 Languages & Frameworks
+Flutter, Dart, Android, iOS
+⚙️ Architecture & State Management
+Clean Architecture, MVC
+GetX, Provider, Riverpod
+🔗 Backend & APIs
+REST APIs, Firestore
+Swagger, Postman
+🔌 Integrations
+Firebase, OneSignal (Push Notifications)
+Google Maps, Branch.io
+Payment Gateways (PhonePe)
+🚀 Deployment & Tools
+Google Play Console, App Store Connect
+Git, GitHub
+Android Studio, VS Code
+Cursor AI
+💼 Professional Experience
+🚀 Junior Flutter Developer
 
-## 👨‍💻 About Me  
-- 🔭 **Currently Working As**: Flutter Developer Intern at **Rootments Enterprises LLP**  
-- 🌱 **Currently Learning**: Advanced **Flutter development, Firebase, API integrations**  
-- 👯 **Looking to Collaborate On**: Open-source Flutter projects, mobile UI/UX innovations  
-- 💬 **Ask Me About**: Flutter, Dart, State Management, API Integration, UI/UX Best Practices  
-- 📫 **Reach Me At**:  
-  📧 Email: [nidhinpc316@gmail.com](mailto:nidhinpc316@gmail.com)  
-  🔗 LinkedIn: [linkedin.com/in/nidhinpc316](https://linkedin.com/in/nidhinpc316)  
-  💻 GitHub: [github.com/nidhinpc](https://github.com/nidhinpc)  
-- 😄 **Languages**: English, Malayalam (Native)  
-- ⚡ **Fun Fact**: I enjoy building elegant mobile solutions while exploring the latest tech trends!  
+Corevant Platforms Pvt. Ltd. | Aug 2025 – Mar 2026
 
----
+Developed & published Vitara Gold (Gold SIP Investment App)
+Implemented secure API integrations with encryption/decryption
+Integrated AI features, socket communication, and real-time updates
+Added OneSignal notifications & PhonePe payment gateway
+Managed development → UAT → production lifecycle
+Ensured 100% Play Store approval rate
+📱 Flutter Developer Intern
 
-## 🛠️ Tech Stack  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange?style=for-the-badge)  
+Rootments Enterprises LLP | Dec 2024 – Apr 2025
 
----
+Built & published Rootments Learn App
+Developed wedding rental management system
+Implemented inventory & booking modules
+Added tag-based search for availability tracking
+Collaborated with UI/UX team for better usability
+🔥 Featured Project
+📌 Service Booking Application
 
-## 💼 Work Experience  
+A role-based service platform with Admin, User, and Worker dashboards
 
-### 🚀 **Flutter Developer Intern** | *Rootments Enterprises LLP* (Dec 2024 - Apr 2025)  
-- Building an innovative mobile app that redefines **wedding culture** through sustainable rental solutions.  
-- Collaborating with cross-functional teams to design and develop **scalable** features.  
-- Writing clean, optimized code with iterative **testing and debugging**.  
-
-### 📱 **Flutter Developer Trainee** | *Luminar Technolab* (June 2024 - Nov 2024)  
-- Developed **high-performance** mobile applications using Flutter.  
-- Enhanced **UI/UX** designs for better user interaction and engagement.  
-- Managed backend **API integrations** and local **database handling**.  
-
----
-
-## 🔥 Projects  
-
-### 📌 **Task Reminder App**  
-A **Flutter application** designed for efficient **task management** with local data storage.  
-- Implements **SQLite** for persistent data storage.  
-- Uses **Flutter Local Notifications** to provide timely alerts.  
-- Technologies: **Flutter, SQLite, Dart, RESTful APIs**  
-🔗 **GitHub Repo**: [Task Reminder App](https://github.com/nidhinpc)  
-
----
-
-## 📜 Certifications  
-🎓 **Flutter Development Certification** | *Luminar Technolab, Kochi* (June 2024 - Nov 2024)  
-- Covered advanced **state management, Firebase, API integration**, and **performance optimization**.  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinpc&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinpc&layout=compact&theme=tokyonight)  
-
----
-
-## 🌎 Additional Information  
-✅ **Willing to Relocate**: Open to global opportunities  
-📜 **Visa Status**: Available upon request  
-🛂 **Passport Expiry**: 22-01-2029  
-
+🔐 Firebase Authentication & Firestore
+☁️ Cloudinary for scalable media storage
+⚙️ Fully structured and modular architecture
+📊 Key Highlights
+✅ Published multiple apps on Google Play Store
+✅ Experience with real-time systems & socket communication
+✅ Strong in clean code & scalable architecture
+✅ Hands-on with secure payment integrations
+📫 Connect With Me
+📧 nidhinpc66666@gmail.com
+🔗 https://linkedin.com/in/nidhinpc316
+💻 https://github.com/nidhinpc
+🌐 Portfolio: https://nidhinpc.github.io/Portfolio-Website-main
+⚡ Additional Info
+🌐 Languages: English, Malayalam
+✈️ Open to relocation
+💡 Passionate about building real-world scalable mobile apps
 ---
 
 💡 **Let's build something amazing together!** 🚀  
